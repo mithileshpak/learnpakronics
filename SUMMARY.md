@@ -229,6 +229,7 @@
 * [Arduino](arduino/README.md)
   * [Arduino Comparison Sheet](arduino/arduino-comparison-sheet.md)
   * [Tutorials](arduino/tutorials/README.md)
+    * [Setup Arduino Every board in Arduino IDE](arduino/tutorials/setup-arduino-every-board-in-arduino-ide.md)
     * [Installing Libraries](arduino/tutorials/installing-libraries.md)
   * [Examples](arduino/examples/README.md)
     * [Genuino 101](arduino/examples/genuino-101/README.md)

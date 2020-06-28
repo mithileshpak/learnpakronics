@@ -44,7 +44,9 @@ description: >-
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Programmable sensors | Optical sensor | Optical sensor |
+</table>
+
+| Programmable sensors | Optical sensor | Optical sensor |
 | :--- | :--- | :--- |
 
 

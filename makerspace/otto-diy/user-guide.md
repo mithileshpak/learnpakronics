@@ -32,33 +32,6 @@ Otto-DIY Robot Kits are available in the following four variants depending upon 
 | LED Matrix \(8x8\) |  |  | X |  |
 | LED Matrix \(16x8\) |  |  |  | X |
 
-## Setting up Arduino Software
-
-Following are the tips to work with Otto-DIY Maker Robot from Pakronics®:
-
-1. Board package for Arduino Nano Every:
-
- 
-
-![Add board package for Arduino Nano every](../../.gitbook/assets/1%20%2819%29.png)
-
-![Select Tool&amp;gt;Board&amp;gt;Arduino Nano Every](../../.gitbook/assets/every.png)
-
-Ensure that the board package \(Arduino MegaAVR Boards\) for Arduino Nano Every is installed. To check, click on Tools &gt; Board &gt; Boards Manager and search for “Every” as shown above. If required, click on the ‘Install’ button to install the board package.
-
-1. Once the board package is installed, select the appropriate board in the Tools menu:
-   1. Tools &gt; Board &gt; Arduino Nano Every
-   2. Tools &gt; Registry Emulation &gt; ATMEGA328
-2. Otto Library for Arduino
-   1. Download the Pakronics Otto-DIY library \(Pakronics\_Otto.zip file\) for _**Arduino Every**_ from - [https://learn.pakronics.com.au/otto-diy/code\#arduino-every-code](https://learn.pakronics.com.au/otto-diy/code#arduino-every-code)
-   2. To install the library, click on Sketch &gt; Include Library &gt; Add .zip library and select the downloaded zip file.
-
-![Add Pakronics library from the Code](../../.gitbook/assets/every-lib.png)
-
-* 1. Once the library is installed, you will be able to access and run the example codes provided for each Otto-Maker variant \(File &gt; Examples &gt; Pakronics\_Otto\)
-
-![Pakronics OTTO library](../../.gitbook/assets/every-lib2.png)
-
 ## Connection of components – Otto Robot Assembly
 
 Across all the four variants of Otto-DIY Robots, buzzer, switch and Servos are common. Following the connection guide:

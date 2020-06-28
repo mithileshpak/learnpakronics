@@ -47,7 +47,9 @@ Grove - CRecorder v2.0 is a upgraded recorder with enriched features. It can rec
       </td>
     </tr>
   </tbody>
-</table>## Features
+</table>
+
+## Features
 
 * Easy-to-use with sound volume control, record, playback functions and grove interfaces.
 * Easy to be programmed for plenty of applications with MCU.

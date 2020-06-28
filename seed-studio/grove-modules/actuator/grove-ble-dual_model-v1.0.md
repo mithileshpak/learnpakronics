@@ -313,7 +313,9 @@ This command must work with “AT+NOTI1”, if this switch is open, when the mod
       </td>
     </tr>
   </tbody>
-</table>This command must use after “AT+MODE1” is setup. This command is only used by remote Bluetooth device.
+</table>
+
+This command must use after “AT+MODE1” is setup. This command is only used by remote Bluetooth device.
 
 **28. Query EDR RSSI value**
 
@@ -340,7 +342,9 @@ This command must work with “AT+NOTI1”, if this switch is open, when the mod
       </td>
     </tr>
   </tbody>
-</table>**29. Query Last Connected EDR Device Address**
+</table>
+
+**29. Query Last Connected EDR Device Address**
 
 | Send | Receive | Parameter |
 | :--- | :--- | :--- |
@@ -397,7 +401,9 @@ This command will take effect after module next power on or reset.
       <td style="text-align:left">None</td>
     </tr>
   </tbody>
-</table>## Programming
+</table>
+
+## Programming
 
 ### Configure the Bluetooth module with Serial under Windows
 

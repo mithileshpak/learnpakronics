@@ -6,9 +6,19 @@ description: >-
 
 # Code
 
-## OTTO with Arduino Nano Every board code
+{% page-ref page="../../arduino/tutorials/setup-arduino-every-board-in-arduino-ide.md" %}
+
+
+
+## Library OTTO with Arduino Nano Every board code
 
 {% file src="../../.gitbook/assets/pakronics\_otto.zip" caption="OTTO Library for Arduino Nano Every by Pakronics" %}
+
+## If you don't know how to install Arduino library for OTTO
+
+{% page-ref page="../../arduino/tutorials/installing-libraries.md" %}
+
+
 
 ## Legacy Arduino Nano code
 

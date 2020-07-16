@@ -49,3 +49,5 @@ Across all the four variants of Otto-DIY Robots, buzzer, switch and Servos are c
 
 ![](../../.gitbook/assets/4%20%2816%29.png)
 
+{% file src="../../.gitbook/assets/info-otto-tips\_for\_working\_with\_otto-diy-kit\_v03.pdf" %}
+

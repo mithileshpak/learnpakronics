@@ -55,6 +55,7 @@
   * [Arduino Grove Starter Kit](secondary/arduino-grove-starter-kit.md)
   * [CoDrone](secondary/codrone.md)
 * [Senior Secondary](senior-secondary/README.md)
+  * [CoDrone Pro](senior-secondary/codrone-pro.md)
   * [Arduino CTC Go](senior-secondary/arduino-ctc-go.md)
 * [Digital Tech Kits](digital-tech-kits/README.md)
   * [Digital Tech Kit for K-2](digital-tech-kits/digital-tech-kit-for-k-2.md)
